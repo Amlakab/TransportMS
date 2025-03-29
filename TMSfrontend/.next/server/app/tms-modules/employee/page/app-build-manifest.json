@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/tms-modules/employee/page": [
+      "static/chunks/[root of the server]__9a6e5a13._.css",
+      "static/chunks/node_modules_next_dist_1a6ee436._.js",
+      "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_e9c1357a._.js",
+      "static/chunks/node_modules_57817fbf._.js",
+      "static/chunks/src_app_5317855e._.js",
+      "static/chunks/src_app_tms-modules_employee_layout_tsx_fa044933._.js",
+      "static/chunks/src_app_tms-modules_employee_page_tsx_33fe3a6e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_49a6ea35._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_43e3ffb8._.js",
+      "static/chunks/node_modules_next_dist_3bfaed20._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_be317ff2._.js"
+    ]
+  }
+}

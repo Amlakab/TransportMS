@@ -1,0 +1,15 @@
+/* [project]/src/app/tms-module/Dashboard.css [app-client] (css) */
+.erp-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f5f7fa;
+}
+
+.erp-sidebar {
+  width: 250px;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 2px 0 5px #0000001a;
+}
+
+/*# sourceMappingURL=src_app_tms-module_Dashboard_b52d8e88.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/A/Desktop/Internship/ERP-dashboards/ERP-dashboard/src/app/styles/tms-theme.css"],"sourcesContent":["/* src/styles/tms-theme.css */\r\n:root {\r\n    --color-primary: 37 99 235; /* blue-600 */\r\n    --color-secondary: 124 58 237; /* purple-600 */\r\n    --color-background: 249 250 251; /* gray-50 */\r\n    --color-surface: 255 255 255; /* white */\r\n    --color-border: 229 231 235; /* gray-200 */\r\n  }\r\n  \r\n  /* Custom scrollbar for light theme */\r\n  ::-webkit-scrollbar {\r\n    width: 8px;\r\n    height: 8px;\r\n  }\r\n  \r\n  ::-webkit-scrollbar-track {\r\n    background: #f1f1f1;\r\n  }\r\n  \r\n  ::-webkit-scrollbar-thumb {\r\n    background: #c1c1c1;\r\n    border-radius: 4px;\r\n  }\r\n  \r\n  ::-webkit-scrollbar-thumb:hover {\r\n    background: #a8a8a8;\r\n  }"],"names":[],"mappings":"AACA;;;;;;;;AASE;;;;;AAKA;;;;AAIA;;;;;AAKA","debugId":null}}]
+}

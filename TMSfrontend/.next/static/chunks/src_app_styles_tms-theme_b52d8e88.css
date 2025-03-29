@@ -1,0 +1,28 @@
+/* [project]/src/app/styles/tms-theme.css [app-client] (css) */
+:root {
+  --color-primary: 37 99 235;
+  --color-secondary: 124 58 237;
+  --color-background: 249 250 251;
+  --color-surface: 255 255 255;
+  --color-border: 229 231 235;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/*# sourceMappingURL=src_app_styles_tms-theme_b52d8e88.css.map*/
